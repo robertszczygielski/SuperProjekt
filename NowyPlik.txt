@@ -1,1 +1,2 @@
  Nowy plik test
+poprawa tekstu w pliku
